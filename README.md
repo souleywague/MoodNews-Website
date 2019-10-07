@@ -2,7 +2,7 @@
 
 Get the news that match your mood!
 
-![alt text](https://github.com/souleywague/MoodNews.website/blob/master/moodnews-screenshot.png)
+![alt text](https://github.com/souleywague/MoodNews.website/blob/master/home-screenshot.png)
 
 MoodNews is the coolest way to make your daily news review. Harnessing the power of artificial intelligence, it filters top headlines from the most popular newspapers around the world just for you. In the mood for bad, neutral or good news? Just select the categories, tap the mood, then swipe the news. That’s MoodNews!
 
